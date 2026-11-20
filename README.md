@@ -1,8 +1,8 @@
 # GTA 6 Clip — Lucia's Sunset Dance in Vice City
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-gta6--clipper--01-blue)](https://make.fun/bounty/gta6-clipper-01)
-[![license: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![video: YouTube Short](https://img.shields.io/badge/video-YouTube%20Short-red)](https://www.youtube.com/shorts/<id>)
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/kanbara12/gta6-clipper-01-kanbara12/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/kanbara12/gta6-clipper-01-kanbara12/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
 An entry for the make.fun bounty **"Clip GTA 6 for the most YouTube views"**
 ([gta6-clipper-01](https://make.fun/bounty/gta6-clipper-01), $500, top 20 by views).
